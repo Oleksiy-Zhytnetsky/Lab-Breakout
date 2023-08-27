@@ -1,0 +1,5 @@
+docs/
+out/
+.idea/
+*.iml
+*.class
